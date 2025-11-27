@@ -1,5 +1,5 @@
 [project]
-name = "RPI Thermal Experiments"
+name = "rpi-thermal-experiments"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
